@@ -1,3 +1,5 @@
 {
-    "10_minute_mail": true
+    "10_minute_mail": false,
+    "group": "https://fantasy.espn.com/games/tournament-challenge-bracket-2025/group?id=01aac070-2ed5-4c7c-af78-5a5e82d40fb7",
+    "password": "letmein"
 }
