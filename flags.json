@@ -1,7 +1,7 @@
 {
-    "10_minute_mail": false,
-    "dropmail": true,
-    "mailwait": 15,
+    "10_minute_mail": true,
+    "dropmail": false,
+    "mailwait": 90,
     "group": "https://fantasy.espn.com/games/tournament-challenge-bracket-2025/group?id=87514e16-4618-4e2e-be47-e07d4f020f45",
     "password": "cluckcluck"
 }
